@@ -52,17 +52,6 @@ print("MAE : ",mean_absolute_error(Ytest,Ypred))
 print("RMSE : ",np.sqrt(mse))
 ```
 ### Output:
-<table>
-<tr>
-<td width=45%>
-
-**X and Y values split** <br>
- ![Screenshot 2024-02-26 212209](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/5b488f39-2123-4a5c-9708-9bcc33d2d82e)
-</td>
-</tr> 
-</table>
-<br>
-<br>
 
 **Predicted Values of Y**<br>
 ![Screenshot 2024-02-26 212638](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/e2be81a2-00bc-4298-bfbc-0de77e45b642)
@@ -72,12 +61,6 @@ print("RMSE : ",np.sqrt(mse))
 ![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/bc3fc02b-c6b0-40b6-b185-fdfca4659cef)
 ![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/ae6dc783-4089-4850-a959-eb8d4bf14dc6)
 <br>
-**Values of MSE,MAE and RMSE**<br>
-```
-MSE :  25.463280738222547
-MAE :  4.691397441397438
-RMSE :  5.046115410711743
-```
 
 
 ### Result:
